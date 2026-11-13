@@ -1,0 +1,11 @@
+.venv/
+.uv-cache/
+.uv-python/
+.jupyter/
+.ipython/
+__pycache__/
+.ipynb_checkpoints/
+data/raw/
+data/processed/
+outputs/
+work/

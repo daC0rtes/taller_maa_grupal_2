@@ -1,0 +1,18 @@
+[project]
+name = "taller-grupal2-maa"
+version = "0.1.0"
+description = "Prediccion de churn para el Taller Grupal 2 de Metodos Aplicados de Analitica"
+requires-python = ">=3.11,<3.14"
+dependencies = [
+    "ipykernel>=6.29",
+    "jupyterlab>=4.2",
+    "matplotlib>=3.9",
+    "numpy>=2.1",
+    "openpyxl>=3.1",
+    "pandas>=2.2",
+    "scikit-learn>=1.5",
+    "seaborn>=0.13",
+]
+
+[tool.uv]
+package = false
